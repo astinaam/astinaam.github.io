@@ -18,29 +18,22 @@ I have solved problems in different platforms. I participate in almost every con
 
 I have also done some projects in academic courses and sololy.
 
-```markdown
-
-#### A simple web server
+* #### A simple web server
  - It's written in python3. Available on [github](https://github.com/astinaam/Server).
 
-#### Fly simulator game
+* #### Fly simulator game
  - It's advanced programming lab project and build with unity3D.
 
-#### Courier Management System
+* #### Courier Management System
  - It's a database course project.
 
-#### Android Scientific Calculator
+* #### Android Scientific Calculator
  - It's a scientific calculator.
  - Features are addition, subtraction, multiplication, division, mod and power.
  - 2 line display.
  
-```
 
 ### Interests
-
-
-`I am a very friendly person. I like calm and cool people and I really don't like chaos and complications in life. `
-
 
 ```markdown
 
@@ -49,3 +42,6 @@ I have also done some projects in academic courses and sololy.
  - Internet of things
  
 ```
+
+`I am a very friendly person. I like calm and cool people and I really don't like chaos and complications in life. `
+
