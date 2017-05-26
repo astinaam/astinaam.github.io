@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+## What I love
 
-You can use the [editor on GitHub](https://github.com/astinaam/astinaam.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am sport programmer and linux lover. I love to solve problems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have solved problems in different platforms. I participate in almost every contests. I am trying hard to get myself better.
 
-### Markdown
+### My username in different coding and contest platforms
+ 
+ - Codeforces - _astinaam_
+ - Codechef   - _tut_tut_
+ - UVa        - _tut_tut_
+ - SPOJ       - _paradise_lost_
+ - Atcoder    - _astinaam_
+ - CSacademy  - _astinaam_
+ - Topcoder   - _cseku_150205_
+ 
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have also done some projects in academic courses and sololy.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#### A simple web server
+ - It's written in python3. Available on [github](https://github.com/astinaam/Server).
 
-- Bulleted
-- List
+#### Fly simulator game
+ - It's advanced programming lab project and build with unity3D.
 
-1. Numbered
-2. List
+#### Courier Management System
+ - It's a database course project.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+#### Android Scientific Calculator
+ - It's a scientific calculator.
+ - Features are addition, subtraction, multiplication, division, mod and power.
+ - 2 line display.
+ 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Interests
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/astinaam/astinaam.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+`I am a very friendly person. I like calm and cool people and I really don't like chaos and complications in life. `
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```markdown
+
+ - Automated Bot
+ - Aritificial Intelligence
+ - Internet of things
+ 
+```
