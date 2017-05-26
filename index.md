@@ -1,10 +1,10 @@
-## What I love
+# What I love
 
 I am sport programmer and linux lover. I love to solve problems.
 
 I have solved problems in different platforms. I participate in almost every contests. I am trying hard to get myself better.
 
-### My username in different coding and contest platforms
+## My username in different coding and contest platforms
  
  - Codeforces - _astinaam_
  - Codechef   - _tut_tut_
@@ -14,26 +14,26 @@ I have solved problems in different platforms. I participate in almost every con
  - CSacademy  - _astinaam_
  - Topcoder   - _cseku_150205_
  
-### Projects
+## Projects
 
 I have also done some projects in academic courses and sololy.
 
-* #### A simple web server
- - It's written in python3. Available on [github](https://github.com/astinaam/Server).
+* ### A simple web server
+1. It's written in python3. Available on [github](https://github.com/astinaam/Server).
 
-* #### Fly simulator game
- - It's advanced programming lab project and build with unity3D.
+* ### Fly simulator game
+1. It's advanced programming lab project and build with unity3D.
 
-* #### Courier Management System
- - It's a database course project.
+* ### Courier Management System
+1. It's a database course project.
 
-* #### Android Scientific Calculator
- - It's a scientific calculator.
- - Features are addition, subtraction, multiplication, division, mod and power.
- - 2 line display.
+* ### Android Scientific Calculator
+1. It's a scientific calculator.
+2. Features are addition, subtraction, multiplication, division, mod and power.
+3. Three line display.
  
 
-### Interests
+## Interests
 
 ```markdown
 
