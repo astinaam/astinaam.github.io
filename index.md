@@ -8,7 +8,7 @@ I have solved problems in different platforms. I participate in almost every con
  
  - Codeforces - _astinaam_
  - Codechef   - _tut_tut_
- - UVa        - _tut_tut_
+ - UVa        - _astinaam_
  - SPOJ       - _paradise_lost_
  - Atcoder    - _astinaam_
  - CSacademy  - _astinaam_
