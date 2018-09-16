@@ -43,5 +43,6 @@ I have also done some projects in academic courses and sololy.
  
 ```
 
-`I am a very friendly person. I like calm and cool people and I really don't like chaos and complications in life. `
+`I am a very friendly person. I like calm and cool people and I really don't like chaos and complications in life.`
+
 You can view my comple protfolio [here](portfolioofmahmud.herokuapp.com).
